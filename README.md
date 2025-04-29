@@ -1,4 +1,4 @@
-# Yukari's Scoop Bucket
+# Yukari0201's Scoop Bucket
 
 Personal bucket for [Scoop](https://scoop.sh), the Windows command-line installer.
 
@@ -17,6 +17,9 @@ scoop install Yukari0201/<manifest>
 
 # App List
 
-- [mpcvr](bucket/mpcvr.json) - [MPC Video Renderer](https://github.com/Aleksoid1978/VideoRenderer)
-- [xysubfilter-with-libass](bucket/xysubfilter-with-libass.json) - [XySubFilter with libass](https://github.com/Masaiki/xy-VSFilter) (Archived)
-- [sub_share](bucket/sub_share.json) - [Subtitles DataBase](https://github.com/foxofice/sub_share)
+| App Name | Full Name | Home Page | Note |
+| -------- | --------- | --------- | ---- |
+| mpcvr | MPC Video Renderer | https://github.com/Aleksoid1978/VideoRenderer |  |
+| xysubfilter-with-libass | XySubFilter with libass | https://github.com/Masaiki/xy-VSFilter | Archived |
+| sub_share | Subtitles DataBase | https://github.com/foxofice/sub_share | |
+| genshin-wish-export | Genshin Impact Wish History Exporter | https://github.com/biuuu/genshin-wish-export | |
