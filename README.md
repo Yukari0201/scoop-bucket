@@ -20,5 +20,4 @@ scoop install Yukari0201/<manifest>
 | App Name | Full Name | Home Page | Note |
 | -------- | --------- | --------- | ---- |
 | mpcvr | MPC Video Renderer | https://github.com/Aleksoid1978/VideoRenderer |  |
-| xysubfilter-with-libass | XySubFilter with libass | https://github.com/Masaiki/xy-VSFilter | Archived |
 | sub_share | Subtitles DataBase | https://github.com/foxofice/sub_share | |
